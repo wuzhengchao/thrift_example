@@ -10,6 +10,7 @@ target
 *.xml.bak
 *.iml
 .idea
+gen-javabean/
 
 #diff files
 *.diff
